@@ -122,4 +122,4 @@ Possible future improvements include:
 - Cancer therapeutics research
 - Bioinformatics-based screening systems
 ----
-## Working website: 
+## Working website: https://somshirsha.github.io/AI-drug-target-interaction-prediction/
